@@ -1,4 +1,4 @@
-"# Projet-de-Synthese-d-Image-PovRay" 
+"# Projet-de-Synthese-Et-Traitement-d-Image-PovRay" 
 
 
 projet echequier en povray : synthese d'image
